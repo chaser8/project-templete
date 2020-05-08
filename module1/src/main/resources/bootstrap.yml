@@ -1,6 +1,6 @@
 nacos:
-  namespace: a3c54dc2-5b9c-4666-ad76-f1936e7bdbf0
-  server-addr: 192.168.10.52:8848
+  namespace: c228d06e-19dd-4c73-9fa5-e7f2b75b98b6
+  server-addr: 192.168.128.128:8848
 server:
   port: 8084
   max-http-header-size: 4048576

@@ -14,5 +14,10 @@
             <groupId>com.tydic.dev1</groupId>
             <artifactId>common-api</artifactId>
         </dependency>
+        <dependency>
+            <groupId>com.tydic.mkt.xxx</groupId>
+            <artifactId>base-entity</artifactId>
+            <version>xxx-1.0.0-SNAPSHOT</version>
+        </dependency>
     </dependencies>
 </project>
