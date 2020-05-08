@@ -21,4 +21,7 @@
             <version>xxx-1.0.0-SNAPSHOT</version>
         </dependency>
     </dependencies>
+    <build>
+        <finalName>module1</finalName>
+    </build>
 </project>

@@ -16,4 +16,7 @@
             <artifactId>common-api</artifactId>
         </dependency>
     </dependencies>
+    <build>
+        <finalName>common-api</finalName>
+    </build>
 </project>
